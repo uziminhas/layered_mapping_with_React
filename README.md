@@ -1,6 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-<a href="https://dl.dropboxusercontent.com/s/koqbpx80bb633jq/ezgif-3-94e495833d.gif?dl=0"><img src="https://dl.dropboxusercontent.com/s/koqbpx80bb633jq/ezgif-3-94e495833d.gif?dl=0" title=""/></a>
+<a href="https://dl.dropboxusercontent.com/s/2dhlj3izxe109mf/Map_Demo_Re-Color%20Water.gif?dl=0"><img src="https://dl.dropboxusercontent.com/s/2dhlj3izxe109mf/Map_Demo_Re-Color%20Water.gif?dl=0" title=""/></a>
+
+<a href="https://dl.dropboxusercontent.com/s/n4ra86mpwtv3nii/Map_Demo_Show%20Railways.gif?dl=0"><img src="https://dl.dropboxusercontent.com/s/n4ra86mpwtv3nii/Map_Demo_Show%20Railways.gif?dl=0" title=""/></a>
+
+<a href="https://dl.dropboxusercontent.com/s/a95zempe8c9i3tu/Map_Demo_Show%20Elevation.gif?dl=0"><img src="https://dl.dropboxusercontent.com/s/a95zempe8c9i3tu/Map_Demo_Show%20Elevation.gif?dl=0" title=""/></a>
+
+<a href="https://dl.dropboxusercontent.com/s/2iwub4vs26l5kot/Map_Demo_Show%20Quakes.gif?dl=0"><img src="https://dl.dropboxusercontent.com/s/2iwub4vs26l5kot/Map_Demo_Show%20Quakes.gif?dl=0" title=""/></a>
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
